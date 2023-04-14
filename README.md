@@ -74,11 +74,11 @@
 
 ## :star2: My Projects:
 
-<a href="https://github.com/CemalettinDimlioglu/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/React.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/CemalettinDimlioglu/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS Project.png" style="height:60px; width: fit-content;" ></a>
-<a href="https://github.com/CemalettinDimlioglu/HTML-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/HTML-CSS.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/CemalettinDimlioglu/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/react.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/CemalettinDimlioglu/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jp.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/CemalettinDimlioglu/HTML-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
-<a href="https://github.com/CemalettinDimlioglu/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/JS-Question.png" style="height:60px; width: fit-content;" ></a>
+<a href="https://github.com/CemalettinDimlioglu/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jq.png" style="height:60px; width: fit-content;" ></a>
 </br>
 <h2 align="center">My Top Projects</h2>
 ###
