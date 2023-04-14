@@ -5,13 +5,13 @@
 <font color="pink"> : ✔️  I'm a Front-End Developer. </font>
 </br>
 
-<font color="pink"> ![LightBrightGIF](https://user-images.githubusercontent.com/118989157/232145442-fd336d90-284c-48de-8e7c-dbf968353bf0.gif)
+<font color="pink">  
    Exploring routes to new visions and be a part of the new visions. </font>
 </br>
 
 <font color="pink"> :😜 A new age enthusiast. </font>
 </br>
-<font color="pink"> ![TokyoGhoulAnteikuGIF](https://user-images.githubusercontent.com/118989157/232145572-03650a38-b9b4-4312-bc12-d100cdd37958.gif)
+<font color="pink">  
  Coffee is how I keep up with code</font>
 (333 kB)
 
@@ -85,12 +85,23 @@
 ## :star2: My Projects:
 
 <a href="https://github.com/CemalettinDimlioglu/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/react.png" style="height:60px; width: fit-content;" ></a>
+
+
 <a href="https://github.com/CemalettinDimlioglu/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jp.png" style="height:60px; width: fit-content;" ></a>
+
+
 <a href="https://github.com/CemalettinDimlioglu/HTML-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
+
+
 <a href="https://github.com/CemalettinDimlioglu/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jq.png" style="height:60px; width: fit-content;" ></a>
 </br>
+
+
+
 <h2 align="center">My Top Projects</h2>
+
+
 ###
 Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
@@ -98,16 +109,23 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Bootstrap Web Page](https://axel-ac.github.io/Boostrap-Project/) <h3>[Repo](https://github.com/axel-ac/Boostrap-Project)</h3> | Boostrap |![Boostrap-Project](https://user-images.githubusercontent.com/102467587/219783358-be888a33-5332-45ef-bc40-5a6adeb73b8e.gif)
 [Sass Website Page Design](https://axel-ac.github.io/Sass-project/) <h3>[Repo](https://github.com/axel-ac/Sass-project)</h3> | Sass, Scss |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)
 <br>
+
+
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
 <br/>
+   
+   
+   
+   
+   
 <img
-     src="https://github-readme-stats.vercel.app/api?username=axel-ac&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=CemalettinDimlioglu&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel-ac&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemalettinDimlioglu&theme=blue-green"
      alt=""
      /> <br/>
 </div>
-(333 kB)
+
