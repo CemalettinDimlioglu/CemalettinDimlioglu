@@ -1,12 +1,18 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
+
 ## :wave: Hi there, I'm Cemalettin
-<font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
+
+<font color="pink"> : ✔️  I'm a Front-End Developer. </font>
 </br>
-<font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
+
+<font color="pink"> ![LightBrightGIF](https://user-images.githubusercontent.com/118989157/232145442-fd336d90-284c-48de-8e7c-dbf968353bf0.gif)
+   Exploring routes to new visions and be a part of the new visions. </font>
 </br>
-<font color="pink"> :face_with_monocle: A new age enthusiast. </font>
+
+<font color="pink"> :😜 A new age enthusiast. </font>
 </br>
-<font color="pink">:coffee: Coffee is how I keep up with code</font>
+<font color="pink"> ![TokyoGhoulAnteikuGIF](https://user-images.githubusercontent.com/118989157/232145572-03650a38-b9b4-4312-bc12-d100cdd37958.gif)
+ Coffee is how I keep up with code</font>
 (333 kB)
 
 <font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
@@ -18,7 +24,7 @@
 <font color="pink">:coffee: Coffee is how I keep up with code</font>
 ## :man::woman: Connect with me:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemalettin-dimlioglu/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cemaldim)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cemaldim@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CemalettinDimlioglu" alt="CemalettinDimlioglu"/></p>
 </br>
