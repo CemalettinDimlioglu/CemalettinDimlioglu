@@ -1,10 +1,14 @@
-### Hi there 👋
-
-<!--
-**CemalettinDimlioglu/CemalettinDimlioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 ## :wave: Hi there, I'm Cemalettin
+<font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
+</br>
+<font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
+</br>
+<font color="pink"> :face_with_monocle: A new age enthusiast. </font>
+</br>
+<font color="pink">:coffee: Coffee is how I keep up with code</font>
+(333 kB)
+
 <font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font>
 </br>
 <font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
