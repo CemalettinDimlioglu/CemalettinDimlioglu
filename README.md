@@ -105,7 +105,8 @@
 ###
 Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
-[IOS Calculator](https://axel-ac.github.io/IOS-calculator/) <h3>[Repo](https://github.com/axel-ac/IOS-calculator)</h3> | Vanilla JS | ![IOS-Calculator](https://user-images.githubusercontent.com/102467587/218919393-a57f0668-ba05-4e3f-83d3-53a9dfdd9fdf.gif)
+[IOS Calculator](https://github.com/CemalettinDimlioglu/calculator) <h3>[Repo](https://github.com/CemalettinDimlioglu/calculator/edit/master/README.md)</h3> | Vanilla JS | ![CemalettinDimlioglu-calculator-gif](https://user-images.githubusercontent.com/118989157/232162541-5e73cb93-7f86-454e-a41b-2d2af2222bb0.gif)
+
  
 
 
