@@ -11,8 +11,8 @@
 
 <font color="pink"> 😜 A new age enthusiast. </font>
 </br>
-<font color="pink"> ☕ 
- Coffee is how I keep up with code</font>
+<font color="pink"> ☕  Coffee is how I keep up with code</font>
+
 
 
 <!-- <font color="pink"> :heavy_check_mark: I'm a Front-End Developer. </font> -->
