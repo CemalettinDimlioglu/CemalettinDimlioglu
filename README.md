@@ -2,24 +2,21 @@
 
 ## :wave: Hi there, I'm Cemalettin
 
-<font color="pink">  ✔️  I'm a Front-End Developer. </font>
+<font color="pink"> ✔️ I'm a Front-End Developer. </font>
 </br>
-
 <font color="pink"> Exploring routes to new visions and be a part of the new visions. </font>  
 </br>
-
 <font color="pink"> 😜 A new age enthusiast. </font>
 </br>
-<font color="pink"> ☕  Coffee is how I keep up with code</font>
-</br>
-
+<font color="pink"> ☕ Coffee is how I keep up with code</font></br>
 
 <font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
 </br>
+
 <!-- <font color="pink"> :face_with_monocle: A new age enthusiast. </font>
 </br> -->
 <!-- <font color="pink">:coffee: Coffee is how I keep up with code</font> -->
- 
+
 </br>
 ## :man::woman: Connect with me:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemalettin-dimlioglu/)
@@ -81,29 +78,21 @@
 
 <a href="https://github.com/CemalettinDimlioglu/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/react.png" style="height:60px; width: fit-content;" ></a>
 
-
 <a href="https://github.com/CemalettinDimlioglu/JavaScript-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jp.png" style="height:60px; width: fit-content;" ></a>
-
 
 <a href="https://github.com/CemalettinDimlioglu/HTML-Css-Projects" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/html.png" style="height:60px; width: fit-content;" ></a>
 </br></br>
 
-
 <a href="https://github.com/CemalettinDimlioglu/JavaScript-Questions" target="_blank" style="text-decoration: none;margin-right: 25px;"><img src="./img/jq.png" style="height:60px; width: fit-content;" ></a>
 </br>
 
-
-
 <h2 align="center">MY Projects-Coming Soon😌</h2>
 
-
 ###
-Project Demo       |Libraries and Technologies I use     |Project Preview
-:-------------------------|-------------------------|-------------------------
-[IOS Calculator](https://github.com/CemalettinDimlioglu/calculator) <h3>[Repo](https://github.com/CemalettinDimlioglu/calculator/edit/master/README.md)</h3> | Vanilla JS | ![CemalettinDimlioglu-calculator-gif](https://user-images.githubusercontent.com/118989157/232162541-5e73cb93-7f86-454e-a41b-2d2af2222bb0.gif)
 
- 
-
+| Project Demo                                                                                                                                                 | Libraries and Technologies I use | Project Preview                                                                                                                               |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [IOS Calculator](https://github.com/CemalettinDimlioglu/calculator) <h3>[Repo](https://github.com/CemalettinDimlioglu/calculator/edit/master/README.md)</h3> | Vanilla JS                       | ![CemalettinDimlioglu-calculator-gif](https://user-images.githubusercontent.com/118989157/232162541-5e73cb93-7f86-454e-a41b-2d2af2222bb0.gif) |
 
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
@@ -122,4 +111,3 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
-
