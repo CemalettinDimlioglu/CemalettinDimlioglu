@@ -2,7 +2,7 @@
 
 ## :wave: Hi there, I'm Cemalettin
 
-<font color="pink"> : ✔️  I'm a Front-End Developer. </font>
+<font color="pink">  ✔️  I'm a Front-End Developer. </font>
 </br>
 
 <font color="pink">  
