@@ -9,9 +9,9 @@
    Exploring routes to new visions and be a part of the new visions. </font>
 </br>
 
-<font color="pink"> :😜 A new age enthusiast. </font>
+<font color="pink"> 😜 A new age enthusiast. </font>
 </br>
-<font color="pink"> :☕ 
+<font color="pink"> ☕ 
  Coffee is how I keep up with code</font>
 
 
@@ -22,6 +22,8 @@
 <!-- <font color="pink"> :face_with_monocle: A new age enthusiast. </font>
 </br> -->
 <!-- <font color="pink">:coffee: Coffee is how I keep up with code</font> -->
+ 
+
 ## :man::woman: Connect with me:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemalettin-dimlioglu/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cemaldim@gmail.com)
