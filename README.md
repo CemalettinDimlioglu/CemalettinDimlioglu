@@ -64,11 +64,7 @@
      alt="VSCode"
      />
 </br>
-<img
-        src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-        alt="Python"
-      />
-<br>
+ 
 <img
       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"
