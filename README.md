@@ -95,7 +95,7 @@
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [IOS Calculator](https://github.com/CemalettinDimlioglu/calculator) <h3>[Repo](https://github.com/CemalettinDimlioglu/calculator/edit/master/README.md)</h3> | Vanilla JS                       | ![CemalettinDimlioglu-calculator-gif](https://user-images.githubusercontent.com/118989157/232162541-5e73cb93-7f86-454e-a41b-2d2af2222bb0.gif) |
 
-<h2 align="center">:bulb:Most Used Language</h2>
+<h2 align="center">:bulb:Most Used Languages</h2>
 <div  align="center">
 <br/>
    
