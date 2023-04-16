@@ -96,15 +96,10 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 
 
-
 <h2 align="center">:bulb:Most Used Languages</h2>
 <div  align="center">
 <br/>
-   
-   
-   
-   
-   
+
 <img
      src="https://github-readme-stats.vercel.app/api?username=CemalettinDimlioglu&theme=blue-green"
      alt=""
