@@ -87,10 +87,12 @@
 </br>
 
 <h2 align="center">MY Projects-Coming Soon😌</h2>
-
 ###
+
 Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
+
+
 
 [IOS Calculator](https://github.com/CemalettinDimlioglu/calculator) <h3>[Repo](https://github.com/CemalettinDimlioglu/calculator/edit/master/README.md)</h3> | Vanilla JS                  
 ![CemalettinDimlioglu-calculator-gif](https://user-images.githubusercontent.com/118989157/232162541-5e73cb93-7f86-454e-a41b-2d2af2222bb0.gif) |
