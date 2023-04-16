@@ -8,21 +8,15 @@
 </br>
 <font color="pink"> 😜 A new age enthusiast. </font>
 </br>
-<font color="pink"> ☕ Coffee is how I keep up with code</font></br>
+<font color="pink"> ☕ Coffee is how I keep up with code</font>
 
-<font color="pink">:fireworks: Exploring routes to new visions and be a part of the new visions. </font>
-</br>
-
-<!-- <font color="pink"> :face_with_monocle: A new age enthusiast. </font>
-</br> -->
-<!-- <font color="pink">:coffee: Coffee is how I keep up with code</font> -->
-
-</br>
 ## :man::woman: Connect with me:
-</br>
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cemalettin-dimlioglu/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:cemaldim@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CemalettinDimlioglu" alt="CemalettinDimlioglu"/></p>
 </br>
 <h2 align="center">:rocket:Technical Skills</h2>
