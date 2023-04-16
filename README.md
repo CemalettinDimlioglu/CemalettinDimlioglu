@@ -19,6 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CemalettinDimlioglu" alt="CemalettinDimlioglu"/></p>
 </br>
+
 <h2 align="center">:rocket:Technical Skills</h2>
 <div align="center">
 <img
@@ -69,7 +70,9 @@
 
 <!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
 
+
 ## :star2: My Projects:
+
 
 <a href="https://github.com/CemalettinDimlioglu/React-Projects" target="_blank" style="text-decoration: none;margin-right:"><img src="./img/react.png" style="height:60px; width: fit-content;" ></a>
 
