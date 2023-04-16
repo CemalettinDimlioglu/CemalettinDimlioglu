@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="500" height="290"></br>
 
+</br>
 ## :wave: Hi there, I'm Cemalettin
 
 <font color="pink">  ✔️  I'm a Front-End Developer. </font>
